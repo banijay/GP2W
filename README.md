@@ -1,1 +1,1 @@
-# GP2W
+# Galeria.github.io
